@@ -1,3 +1,4 @@
+这里引用一下大佬美化博客的代码，原地址链接为：https://github.com/YJLAugus/cnblogs-theme-simple-color
 ## 写在前面
 
 > 本款主题是基于 [@esofar](https://www.cnblogs.com/esofar/)大佬的`silence`主题，稍加更改完成。喜欢主题的极简风，同时也适配了许多个性化的东西，所以，主题总体基本没有任何的优化，代码凌乱，本不想放出，毕竟代码混乱，毫无逻辑可言，近期有许多小伙伴想要这一套主题，特此放出。不当之处定会有许多，请多担待。同时也部分参考了[GShang](https://www.cnblogs.com/gshang)学长的博客，特表感谢。
